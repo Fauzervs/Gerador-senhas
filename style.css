@@ -1,0 +1,52 @@
+/* Estilo para o cabeçalho */
+header {
+  text-align: center;
+  background-color: #c62626;
+  color: white;
+  padding: 10px 0;
+}
+
+/* Estilo para o campo de entrada e rótulos */
+#campo {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+/* Estilo para os checkboxes */
+#check {
+  margin-bottom: 20px;
+}
+
+/* Estilo para os botões */
+button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+/* Estilo para a área de resultado */
+#resultado {
+  margin-top: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 5px;
+}
